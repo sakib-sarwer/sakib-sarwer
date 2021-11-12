@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sakib-sarwer
 - 👀 I’m interested in understanding human behaviour and improve their experience
-- 🌱 I’m currently learning user experience designing 
+- 🌱 I consider myself as a user researcher and experience designer
+- I am good at analytics and love to work with numbers
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me whatsapp: +358409127437
 
